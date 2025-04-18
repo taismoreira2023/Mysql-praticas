@@ -46,12 +46,3 @@ O repositório está organizado da seguinte maneira:
 
 6. Confira as soluções dos exercícios na pasta `Solutions`.
 
-## Contribuindo
-
-Sinta-se à vontade para contribuir com melhorias, novos exercícios ou correções de erros. Para contribuir:
-
-1. Fork este repositório.
-2. Crie uma nova branch (`git checkout -b feature/nome-da-feature`).
-3. Faça suas alterações e commit (`git commit -am 'Adiciona nova atividade'`).
-4. Push para a branch (`git push origin feature/nome-da-feature`).
-5. Abra um pull request.
