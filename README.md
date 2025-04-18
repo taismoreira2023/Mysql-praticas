@@ -29,13 +29,13 @@ O repositório está organizado da seguinte maneira:
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/repository-sql-practice.git
+   git clone https://github.com/seu-usuario/repository-sql-practice.git](https://github.com/taismoreira2023/Mysql-praticas.git
    ```
 
 2. Acesse a pasta do repositório:
 
    ```bash
-   cd repository-sql-practice
+   cd Mysql-praticas
    ```
 
 3. Siga as instruções na pasta `Database Setup` para configurar o banco de dados MySQL com os dados de exemplo.
