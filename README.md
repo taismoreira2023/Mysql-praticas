@@ -38,11 +38,3 @@ O repositório está organizado da seguinte maneira:
    cd Mysql-praticas
    ```
 
-3. Siga as instruções na pasta `Database Setup` para configurar o banco de dados MySQL com os dados de exemplo.
-
-4. Abra o cliente SQL de sua preferência (como MySQL Workbench ou DBeaver) e conecte-se ao banco de dados.
-
-5. Execute os scripts SQL localizados na pasta `Exercícios` para praticar as consultas.
-
-6. Confira as soluções dos exercícios na pasta `Solutions`.
-
