@@ -22,7 +22,6 @@ O repositório está organizado da seguinte maneira:
 
 - **MySQL**: Versão 5.7 ou superior.
 - **SQL Client**: Pode ser utilizado qualquer cliente de SQL, como MySQL Workbench, DBeaver ou comandos de terminal.
-- **Dados de exemplo**: A maioria dos exercícios requer um banco de dados de exemplo. As instruções para criação estão disponíveis na pasta `Database Setup`.
 
 ## Como Usar
 
